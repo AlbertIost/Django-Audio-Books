@@ -1,0 +1,6 @@
+.idea/
+venv/
+django_audio_books/.env
+db.sqlite3
+!media/.gitkeep
+media/*
